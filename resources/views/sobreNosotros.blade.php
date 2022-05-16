@@ -102,11 +102,7 @@
             <div class="col-12 col-sm-6 col-lg-3">
                 <div class="single-cta text-center mt-50 mb-100">
                     <i class="icon_id"></i>
-<<<<<<< HEAD
                     <h2><span class="counter">1</span></h2>
-=======
-                    <h2><span class="counter">3</span></h2>
->>>>>>> c7dcd2e10fee720d7f97b476801f5e3945c0d129
                     <h5>Dentistas</h5>
                 </div>
             </div>
@@ -115,13 +111,8 @@
 </section>
 
 
-<<<<<<< HEAD
 <section class="dentist-area section-padding-100-0" align="center">
     <div class="container" align="center">
-=======
-<section class="dentist-area section-padding-100-0">
-    <div class="container">
->>>>>>> c7dcd2e10fee720d7f97b476801f5e3945c0d129
         <div class="row">
 
             <div class="col-12">
@@ -133,56 +124,19 @@
         </div>
         <div class="row">
 
-<<<<<<< HEAD
             <div class="col-12" align="center">
-=======
-            <div class="col-12 col-sm-6 col-md-4">
->>>>>>> c7dcd2e10fee720d7f97b476801f5e3945c0d129
                 <div class="single-dentist-area mb-100">
                     <img src="{{asset('assets/frontend/images/bg-img/dentista1.png')}}" alt="">
                     <div class="dentist-content">
 
                         <div class="dentist-info bg-gradient-overlay">
-<<<<<<< HEAD
                             <h5>Elvis Marisela Chamagua de Castillo</h5>
-=======
-                            <h5>Vanessa Morataya</h5>
->>>>>>> c7dcd2e10fee720d7f97b476801f5e3945c0d129
                             <p>Dentista General</p>
                         </div>
                     </div>
                 </div>
             </div>
 
-<<<<<<< HEAD
-=======
-            <div class="col-12 col-sm-6 col-md-4">
-                <div class="single-dentist-area mb-100">
-                <img src="{{asset('assets/frontend/images/bg-img/dentista2.png')}}" alt="">
-
-                    <div class="dentist-content">
-
-                        <div class="dentist-info bg-gradient-overlay">
-                            <h5>Ricardo Urrutia</h5>
-                            <p>Ortodoncista</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-12 col-sm-6 col-md-4">
-                <div class="single-dentist-area mb-100">
-                    <img src="{{asset('assets/frontend/images/bg-img/dentista1.png')}}" alt="">
-                    <div class="dentist-content">
-
-                        <div class="dentist-info bg-gradient-overlay">
-                            <h5>Gabriela Peña</h5>
-                            <p>Endodoncista</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
->>>>>>> c7dcd2e10fee720d7f97b476801f5e3945c0d129
         </div>
     </div>
 </section>
