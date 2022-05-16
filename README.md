@@ -111,7 +111,8 @@ You need to have the following programs installed on your computer:
       ```sh
        php artisan db:seed
       ```
-7. You are good to go! Test the project locally with Laragon Server.
+7. You are good to go! Test the project locally with Laragon Server. 
+  * Admin user is admin@proyecto.test, Admin password is: 123456. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
