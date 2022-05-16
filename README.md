@@ -149,6 +149,3 @@ Here are some uses of this project:
 
 Clone the project to see more functionalities!
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
->>>>>>> c7dcd2e10fee720d7f97b476801f5e3945c0d129
