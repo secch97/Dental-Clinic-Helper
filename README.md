@@ -1,5 +1,5 @@
 # DentalClinic
-Personal project for my mom's dental clinic in El Salvador, Central America
+Personal project for my mom's dental clinic in El Salvador, Central America.
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
