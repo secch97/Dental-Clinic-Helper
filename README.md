@@ -57,9 +57,6 @@ This project is being built with the following technologies:
 * [MySQL](https://www.mysql.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
